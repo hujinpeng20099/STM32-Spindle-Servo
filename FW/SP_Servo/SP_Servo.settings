@@ -1,0 +1,6 @@
+#
+#Thu Jun 15 14:10:06 CST 2023
+selected.firmware_ver=1.5.1
+selected.toolchain=Keil MDK-ARM V5
+selected.cubemx=6.8.0
+selected.driver=HAL - Hardware Abstraction Layer

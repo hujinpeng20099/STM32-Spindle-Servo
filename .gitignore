@@ -1,0 +1,7 @@
+*.crf
+*.d
+*.o
+*.iex
+*.map
+*.sct
+*.dep
